@@ -69,7 +69,7 @@ function App() {
           visibility: error ? "visible" : "hidden",
         }}
       >
-        No results for your search, please try a different term.
+        No results for your search, please try a different
       </p>
       <div>
         <Book bookResults={searchResults} />
