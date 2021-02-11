@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+}
+
+.topContainer {
+    display: block;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+.info {
+    color: black;
+    margin-top: 20px;
+
+}
+
+.errorText {
+    text-align: center;
+    color: red;
+}
